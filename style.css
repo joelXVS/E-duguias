@@ -61,7 +61,9 @@ header p {
 }
 
 .filter-box {
-  margin-top: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
 }
 
 .filter-box label {
@@ -74,6 +76,7 @@ header p {
   border-radius: 8px;
   border: 1px solid #ccc;
   font-size: 0.9rem;
+  min-width: 120px;
 }
 
 /* ====== CARDS DE GUÍAS ====== */
