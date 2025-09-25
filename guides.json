@@ -1,37 +1,130 @@
 {
   "courses": [
     {
+      "grade": "6°",
       "name": "GUIA DE TRABAJO 1 - HISTORIA PARA GRADOS 6° - CIVILIZACIONES ANTIGUAS",
-      "instructions": "Resolver la guía de álgebra y subir las respuestas al correo del profe.",
-      "deadline": "2025-09-15",
+      "instructions": "Leer la guía, hacer un resumen en el cuaderno y realizar las actividades según se establezca en la guía. Grupos que deben realizar: Los grupos 7-2, 7-3 y 7-4.",
+      "deadline": "2025-09-19",
       "estado": "expirada",
       "tipo": "obligatoria",
-      "formaEvaluacion": ["Examen ABCD", "Sustentación Oral"],
+      "formaEvaluacion": ["Cuaderno", "Sustentación Oral", "Examen - Evaluación Parcial"],
       "files": [
         {
           "title": "Guía 1",
           "type": "pdf",
           "url": "https://docs.google.com/document/d/1kuqyoHgZ--eroecpP2cdptJA4bMAmXb-otWjE9VuhbE/edit?usp=drivesdk"
-        },
-        {
-          "title": "Examen",
-          "type": "pdf",
-          "url": ""
         }
       ]
     },
     {
-      "name": "Historia 9°",
-      "instructions": "Leer el documento y responder las preguntas en el cuaderno.",
-      "deadline": "2025-10-01",
-      "estado": "expirada",
-      "tipo": "participativa",
-      "formaEvaluacion": ["Ensayo corto"],
+      "grade": "7°",
+      "name": "GUIA DE TRABAJO 1 - HISTORIA PARA GRADOS 7°",
+      "instructions": "Leer la guía, hacer un resumen en el cuaderno y realizar las actividades según se establezca en la guía. Grupos que deben realizar: Los grupos 7-2, 7-3 y 7-4.",
+      "deadline": "2025-10-10",
+      "estado": "pendiente",
+      "tipo": "obligatoria",
+      "formaEvaluacion": ["Cuaderno", "Sustentación Oral", "Examen - Evaluación Parcial"],
       "files": [
         {
-          "title": "Guía Independencia",
+          "title": "Guía 1",
           "type": "pdf",
-          "url": "assets/historia-independencia.pdf"
+          "url": "https://docs.google.com/document/d/1p15FpYIcFdcmA4UZq8u4y9K1Y8snscNmlHpB2_Of6sI/edit?usp=drivesdk"
+        }
+      ]
+    },
+    {
+      "grade": "7°",
+      "name": "GUIA DE TRABAJO 2 - HISTORIA PARA GRADOS 7°",
+      "instructions": "Leer la guía, hacer un resumen en el cuaderno y realizar las actividades según se establezca en la guía. Grupos que deben realizar: Los grupos 7-2, 7-3 y 7-4.",
+      "deadline": "2025-10-31",
+      "estado": "pendiente",
+      "tipo": "obligatoria",
+      "formaEvaluacion": ["Cuaderno", "Sustentación Oral", "Examen - Evaluación Parcial"],
+      "files": [
+        {
+          "title": "Guía 2",
+          "type": "pdf",
+          "url": "https://docs.google.com/document/d/1WJbOAGrzGXWcmypqfGVZD7zwCh17hsHh43er7_rUelA/edit?usp=drivesdk"
+        }
+      ]
+    },
+    {
+      "grade": "7°",
+      "name": "GUIA DE TRABAJO 1 - GEOGRAFÍA PARA GRADOS 7°",
+      "instructions": "No realizar aún.",
+      "deadline": "2025-09-19",
+      "estado": "expirada",
+      "tipo": "obligatoria",
+      "formaEvaluacion": ["Cuaderno", "Sustentación Oral", "Examen - Evaluación Parcial"],
+      "files": [
+        {
+          "title": "Guía 1",
+          "type": "pdf",
+          "url": "https://docs.google.com/document/d/1wwJHEYnoywJKTD3qkkMcWV10HjYUHsH41bQ1KBT5viY/edit?usp=drivesdk"
+        }
+      ]
+    },
+    {
+      "grade": "7°",
+      "name": "GUIA DE TRABAJO 2 - GEOGRAFÍA PARA GRADOS 7°",
+      "instructions": "No realizar aún.",
+      "deadline": "2025-10-31",
+      "estado": "pendiente",
+      "tipo": "obligatoria",
+      "formaEvaluacion": ["Cuaderno", "Sustentación Oral", "Examen - Evaluación Parcial"],
+      "files": [
+        {
+          "title": "Guía 2",
+          "type": "pdf",
+          "url": "https://docs.google.com/document/d/1ixG3oqeZiovFtP3Me97TfUTfk2bqY5riod2m0lod3A8/edit?usp=drivesdk"
+        }
+      ]
+    },
+    {
+      "grade": "8°",
+      "name": "GUIA DE TRABAJO 1 - CÁTEDRA Y CONSTITUCIÓN PARA GRADOS 7°",
+      "instructions": "Leer la guía, hacer un resumen en el cuaderno y realizar las actividades según se establezca en la guía. Grupos que deben realizar: Octavos",
+      "deadline": "2025-10-10",
+      "estado": "pendiente",
+      "tipo": "obligatoria",
+      "formaEvaluacion": ["Cuaderno", "Sustentación Oral", "Examen - Evaluación Parcial"],
+      "files": [
+        {
+          "title": "Guía 1",
+          "type": "pdf",
+          "url": "https://drive.google.com/file/d/1K11auIgAk692nMUF4rEx9K_1GsnwYxNn/view?usp=drivesdk"
+        }
+      ]
+    },
+    {
+      "grade": "7° y 8°",
+      "name": "GUIA DE TRABAJO 2 - CÁTEDRA Y CONSTITUCIÓN PARA GRADOS 7° Y 8°",
+      "instructions": "No realizar aún.",
+      "deadline": "2025-10-20",
+      "estado": "pendiente",
+      "tipo": "obligatoria",
+      "formaEvaluacion": ["Cuaderno", "Sustentación Oral", "Examen - Evaluación Parcial"],
+      "files": [
+        {
+          "title": "Guía 2",
+          "type": "pdf",
+          "url": "https://docs.google.com/document/d/1XDXSefnWSRiqosCZaX_GsDNLvZFxrmROknpZk_dSnrc/edit?usp=drivesdk"
+        }
+      ]
+    },
+    {
+      "grade": "8°",
+      "name": "GUIA DE TRABAJO 1 - CÁTEDRA Y CONSTITUCIÓN PARA GRADOS 8°",
+      "instructions": "No realizar aún.",
+      "deadline": "2025-10-31",
+      "estado": "pendiente",
+      "tipo": "obligatoria",
+      "formaEvaluacion": ["Cuaderno", "Sustentación Oral", "Examen - Evaluación Parcial"],
+      "files": [
+        {
+          "title": "Guía 1",
+          "type": "pdf",
+          "url": "https://docs.google.com/document/d/13Xbf9nltasL22fPbARb6X6zV1jhIEUsmvefl8XC3r3U/edit?usp=drivesdk"
         }
       ]
     }
