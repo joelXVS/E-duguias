@@ -1,0 +1,39 @@
+{
+  "courses": [
+    {
+      "name": "GUIA DE TRABAJO 1 - HISTORIA PARA GRADOS 6° - CIVILIZACIONES ANTIGUAS",
+      "instructions": "Resolver la guía de álgebra y subir las respuestas al correo del profe.",
+      "deadline": "2025-09-15",
+      "estado": "expirada",
+      "tipo": "obligatoria",
+      "formaEvaluacion": ["Examen ABCD", "Sustentación Oral"],
+      "files": [
+        {
+          "title": "Guía 1",
+          "type": "pdf",
+          "url": "https://docs.google.com/document/d/1kuqyoHgZ--eroecpP2cdptJA4bMAmXb-otWjE9VuhbE/edit?usp=drivesdk"
+        },
+        {
+          "title": "Examen",
+          "type": "pdf",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "Historia 9°",
+      "instructions": "Leer el documento y responder las preguntas en el cuaderno.",
+      "deadline": "2025-10-01",
+      "estado": "expirada",
+      "tipo": "participativa",
+      "formaEvaluacion": ["Ensayo corto"],
+      "files": [
+        {
+          "title": "Guía Independencia",
+          "type": "pdf",
+          "url": "assets/historia-independencia.pdf"
+        }
+      ]
+    }
+  ]
+}
