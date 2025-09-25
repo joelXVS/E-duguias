@@ -2,15 +2,29 @@ async function loadCourses() {
   try {
     const response = await fetch("guides.json");
     const data = await response.json();
-
     const container = document.getElementById("course-list");
+    const gradeSelect = document.getElementById("gradeFilter");
 
-    function renderCourses(filter = "todas") {
-      container.innerHTML = ""; // limpia antes de pintar
+    // --- generar lista única de grados ---
+    const gradosUnicos = [...new Set(data.courses.map(c => c.grade))].sort();
+    gradosUnicos.forEach(grado => {
+      const opt = document.createElement("option");
+      opt.value = grado;
+      opt.textContent = `${grado}°`;
+      gradeSelect.appendChild(opt);
+    });
+
+    function renderCourses(filter = "todas", gradeFilter = "todos") {
+      container.innerHTML = "";
 
       data.courses.forEach(course => {
+        // filtro de estado/tipo
         if (filter !== "todas" && course.estado !== filter && course.tipo !== filter) {
-          return; // salta si no cumple el filtro
+          return;
+        }
+        // filtro de grado
+        if (gradeFilter !== "todos" && course.grade !== gradeFilter) {
+          return;
         }
 
         const card = document.createElement("div");
@@ -25,7 +39,7 @@ async function loadCourses() {
           : `<span class="tipo participativa">Participativa ✨</span>`;
 
         card.innerHTML = `
-          <h2>${course.name}</h2>
+          <h2>${course.name} <small>(Grado ${course.grade}°)</small></h2>
           <p>${course.instructions}</p>
           <p class="deadline">📅 Entrega: ${course.deadline}</p>
           ${estadoLabel} ${tipoLabel}
@@ -47,9 +61,15 @@ async function loadCourses() {
     // render inicial
     renderCourses();
 
-    // activar filtro
-    document.getElementById("filter").addEventListener("change", e => {
-      renderCourses(e.target.value);
+    // filtros
+    const filterSelect = document.getElementById("filter");
+
+    filterSelect.addEventListener("change", () => {
+      renderCourses(filterSelect.value, gradeSelect.value);
+    });
+
+    gradeSelect.addEventListener("change", () => {
+      renderCourses(filterSelect.value, gradeSelect.value);
     });
 
   } catch (error) {
