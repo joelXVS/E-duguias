@@ -1,10 +1,11 @@
 {
   "courses": [
     {
-      "grade": "6°",
+      "grade": "6",
       "name": "GUIA DE TRABAJO 1 - HISTORIA PARA GRADOS 6° - CIVILIZACIONES ANTIGUAS",
       "instructions": "Leer la guía, hacer un resumen en el cuaderno y realizar las actividades según se establezca en la guía. Grupos que deben realizar: Los grupos 7-2, 7-3 y 7-4.",
-      "deadline": "2025-09-19",
+      "verLinksDesde": "",
+      "verLinksHasta": "2025-09-19T23:59:59",
       "estado": "expirada",
       "tipo": "obligatoria",
       "formaEvaluacion": ["Cuaderno", "Sustentación Oral", "Examen - Evaluación Parcial"],
@@ -17,10 +18,11 @@
       ]
     },
     {
-      "grade": "7°",
+      "grade": "7",
       "name": "GUIA DE TRABAJO 1 - HISTORIA PARA GRADOS 7°",
       "instructions": "Leer la guía, hacer un resumen en el cuaderno y realizar las actividades según se establezca en la guía. Grupos que deben realizar: Los grupos 7-2, 7-3 y 7-4.",
-      "deadline": "2025-10-10",
+      "verLinksDesde": "2025-09-12T00:00:00",
+      "verLinksHasta": "2025-09-19T23:59:59",      
       "estado": "pendiente",
       "tipo": "obligatoria",
       "formaEvaluacion": ["Cuaderno", "Sustentación Oral", "Examen - Evaluación Parcial"],
@@ -33,10 +35,11 @@
       ]
     },
     {
-      "grade": "7°",
+      "grade": "7",
       "name": "GUIA DE TRABAJO 2 - HISTORIA PARA GRADOS 7°",
-      "instructions": "Leer la guía, hacer un resumen en el cuaderno y realizar las actividades según se establezca en la guía. Grupos que deben realizar: Los grupos 7-2, 7-3 y 7-4.",
-      "deadline": "2025-10-31",
+      "instructions": "No realizar aún.",
+      "verLinksDesde": "",
+      "verLinksHasta": "2025-10-31T11:59:59",
       "estado": "pendiente",
       "tipo": "obligatoria",
       "formaEvaluacion": ["Cuaderno", "Sustentación Oral", "Examen - Evaluación Parcial"],
@@ -49,10 +52,11 @@
       ]
     },
     {
-      "grade": "7°",
+      "grade": "7",
       "name": "GUIA DE TRABAJO 1 - GEOGRAFÍA PARA GRADOS 7°",
-      "instructions": "No realizar aún.",
-      "deadline": "2025-09-19",
+      "instructions": "EXPIRADA, YA NO SE ACEPTA REENTREGA.",
+      "verLinksDesde": "",
+      "verLinksHasta": "2025-09-19T23:59:59",
       "estado": "expirada",
       "tipo": "obligatoria",
       "formaEvaluacion": ["Cuaderno", "Sustentación Oral", "Examen - Evaluación Parcial"],
@@ -65,10 +69,11 @@
       ]
     },
     {
-      "grade": "7°",
+      "grade": "7",
       "name": "GUIA DE TRABAJO 2 - GEOGRAFÍA PARA GRADOS 7°",
       "instructions": "No realizar aún.",
-      "deadline": "2025-10-31",
+      "verLinksDesde": "",
+      "verLinksHasta": "2025-10-31T23:59:59",
       "estado": "pendiente",
       "tipo": "obligatoria",
       "formaEvaluacion": ["Cuaderno", "Sustentación Oral", "Examen - Evaluación Parcial"],
@@ -81,10 +86,11 @@
       ]
     },
     {
-      "grade": "8°",
+      "grade": "8",
       "name": "GUIA DE TRABAJO 1 - CÁTEDRA Y CONSTITUCIÓN PARA GRADOS 7°",
       "instructions": "Leer la guía, hacer un resumen en el cuaderno y realizar las actividades según se establezca en la guía. Grupos que deben realizar: Octavos",
-      "deadline": "2025-10-10",
+      "verLinksDesde": "",
+      "verLinksHasta": "2025-10-10T23:59:59",
       "estado": "pendiente",
       "tipo": "obligatoria",
       "formaEvaluacion": ["Cuaderno", "Sustentación Oral", "Examen - Evaluación Parcial"],
@@ -97,10 +103,11 @@
       ]
     },
     {
-      "grade": "7° y 8°",
+      "grade": "7 y 8",
       "name": "GUIA DE TRABAJO 2 - CÁTEDRA Y CONSTITUCIÓN PARA GRADOS 7° Y 8°",
       "instructions": "No realizar aún.",
-      "deadline": "2025-10-20",
+      "verLinksDesde": "",
+      "verLinksHasta": "2025-10-31T23:59:59",
       "estado": "pendiente",
       "tipo": "obligatoria",
       "formaEvaluacion": ["Cuaderno", "Sustentación Oral", "Examen - Evaluación Parcial"],
@@ -113,10 +120,11 @@
       ]
     },
     {
-      "grade": "8°",
+      "grade": "8",
       "name": "GUIA DE TRABAJO 1 - CÁTEDRA Y CONSTITUCIÓN PARA GRADOS 8°",
-      "instructions": "No realizar aún.",
-      "deadline": "2025-10-31",
+      "instructions": "Leer la guía, hacer un resumen en el cuaderno y realizar las actividades según se establezca en la guía. Grupos que deben realizar: Octavos",
+      "verLinksDesde": "2025-10-06T12:00:00",
+      "verLinksHasta": "2025-10-31T23:59:59",
       "estado": "pendiente",
       "tipo": "obligatoria",
       "formaEvaluacion": ["Cuaderno", "Sustentación Oral", "Examen - Evaluación Parcial"],
