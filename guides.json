@@ -11,7 +11,7 @@
       "formaEvaluacion": ["Cuaderno", "Sustentación Oral", "Examen - Evaluación Parcial"],
       "files": [
         {
-          "title": "Guía 1",
+          "title": "Guía de Trabajo",
           "type": "pdf",
           "url": "https://docs.google.com/document/d/1kuqyoHgZ--eroecpP2cdptJA4bMAmXb-otWjE9VuhbE/edit?usp=drivesdk"
         }
@@ -28,7 +28,7 @@
       "formaEvaluacion": ["Cuaderno", "Sustentación Oral", "Examen - Evaluación Parcial"],
       "files": [
         {
-          "title": "Guía 1",
+          "title": "Guía de Trabajo",
           "type": "pdf",
           "url": "https://docs.google.com/document/d/1p15FpYIcFdcmA4UZq8u4y9K1Y8snscNmlHpB2_Of6sI/edit?usp=drivesdk"
         }
@@ -45,7 +45,7 @@
       "formaEvaluacion": ["Cuaderno", "Sustentación Oral", "Examen - Evaluación Parcial"],
       "files": [
         {
-          "title": "Guía 2",
+          "title": "Guía de Trabajo",
           "type": "pdf",
           "url": "https://docs.google.com/document/d/1WJbOAGrzGXWcmypqfGVZD7zwCh17hsHh43er7_rUelA/edit?usp=drivesdk"
         }
@@ -62,7 +62,7 @@
       "formaEvaluacion": ["Cuaderno", "Sustentación Oral", "Examen - Evaluación Parcial"],
       "files": [
         {
-          "title": "Guía 1",
+          "title": "Guía de Trabajo",
           "type": "pdf",
           "url": "https://docs.google.com/document/d/1wwJHEYnoywJKTD3qkkMcWV10HjYUHsH41bQ1KBT5viY/edit?usp=drivesdk"
         }
@@ -79,7 +79,7 @@
       "formaEvaluacion": ["Cuaderno", "Sustentación Oral", "Examen - Evaluación Parcial"],
       "files": [
         {
-          "title": "Guía 2",
+          "title": "Guía de Trabajo",
           "type": "pdf",
           "url": "https://docs.google.com/document/d/1ixG3oqeZiovFtP3Me97TfUTfk2bqY5riod2m0lod3A8/edit?usp=drivesdk"
         }
@@ -96,7 +96,7 @@
       "formaEvaluacion": ["Cuaderno", "Sustentación Oral", "Examen - Evaluación Parcial"],
       "files": [
         {
-          "title": "Guía 1",
+          "title": "Guía de Trabajo",
           "type": "pdf",
           "url": "https://drive.google.com/file/d/1K11auIgAk692nMUF4rEx9K_1GsnwYxNn/view?usp=drivesdk"
         }
@@ -113,9 +113,26 @@
       "formaEvaluacion": ["Cuaderno", "Sustentación Oral", "Examen - Evaluación Parcial"],
       "files": [
         {
-          "title": "Guía 2",
+          "title": "Guía de Trabajo",
           "type": "pdf",
           "url": "https://docs.google.com/document/d/1XDXSefnWSRiqosCZaX_GsDNLvZFxrmROknpZk_dSnrc/edit?usp=drivesdk"
+        }
+      ]
+    },
+    {
+      "grade": "7° y 8",
+      "name": "GUIA DE TRABAJO 3 - CÁTEDRA Y CONSTITUCIÓN PARA GRADOS 7° Y 8°",
+      "instructions": "No realizar aún.",
+      "verLinkDesde": "",
+      "verLinkHasta": "2025-10-31T23:59:59",
+      "estado": "pendiente",
+      "tipo": "obligatoria",
+      "formaEvaluacion": ["Cuaderno", "Sustentación Oral", "Examen - Evaluación Parcial"],
+      "files": [
+        {
+          "title": "Guía de Trabajo",
+          "type": "pdf",
+          "url": "https://docs.google.com/document/d/1p-fZN_c6JbRz7CuHCuuwiQuF4Z53Bbb92vzhqTSq9QE/edit?usp=drivesdk"
         }
       ]
     },
@@ -130,7 +147,7 @@
       "formaEvaluacion": ["Cuaderno", "Sustentación Oral", "Examen - Evaluación Parcial"],
       "files": [
         {
-          "title": "Guía 1",
+          "title": "Guía de Trabajo",
           "type": "pdf",
           "url": "https://docs.google.com/document/d/13Xbf9nltasL22fPbARb6X6zV1jhIEUsmvefl8XC3r3U/edit?usp=drivesdk"
         }
