@@ -1,0 +1,88 @@
+.estado {
+  display: inline-block;
+  padding: 0.3rem 0.6rem;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  font-weight: bold;
+  margin-right: 0.5rem;
+}
+
+.estado.pendiente {
+  background: #e0f2fe;
+  color: #0369a1;
+}
+
+.estado.expirada {
+  background: #fee2e2;
+  color: #b91c1c;
+}
+
+.tipo {
+  display: inline-block;
+  padding: 0.3rem 0.6rem;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  margin-top: 0.3rem;
+}
+
+.tipo.obligatoria {
+  background: #ede9fe;
+  color: #5b21b6;
+}
+
+.tipo.participativa {
+  background: #f0f9ff;
+  color: #1d4ed8;
+}
+
+.course-card ul {
+  margin: 0.5rem 0;
+  padding-left: 1.2rem;
+}
+
+.controls {
+  padding: 1rem;
+  text-align: center;
+  background: #eef2ff;
+  border-bottom: 2px solid #ddd;
+}
+
+.controls h2 {
+  margin-top: 0;
+  color: var(--primary);
+}
+
+.controls label {
+  margin-right: 0.5rem;
+  font-weight: bold;
+}
+
+.controls select {
+  padding: 0.4rem 0.6rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 0.9rem;
+}
+
+.cta-btn {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.8rem 1.5rem;
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+  border-radius: 30px;
+  background: linear-gradient(135deg, var(--primary), var(--secondary));
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.cta-btn:hover {
+  transform: translateY(-3px) scale(1.05);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.3);
+}
+
+.cta-btn:active {
+  transform: translateY(0) scale(0.97);
+}
