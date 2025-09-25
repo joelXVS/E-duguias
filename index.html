@@ -10,25 +10,28 @@
   <header>
     <h1>E-duguias 📘</h1>
     <p>Plataforma de guías en línea para estudiantes</p>
-    <a href="https://joelxvs.github.io/E-valua/student/student.html" class="cta-btn" target="_blank">
-      🚀 Ir a Evaluaciones
+    <a href="https://joelxvs.github.io/E-valua/student/student.html" 
+       class="cta-btn" target="_blank">
+       🚀 Ir a Evaluaciones
     </a>
   </header>
 
   <section class="controls">
     <h2>📚 Guías disponibles</h2>
-    <label for="filter">Filtrar por:</label>
-    <select id="filter">
-      <option value="todas">Todas</option>
-      <option value="pendiente">Pendientes</option>
-      <option value="expirada">Expiradas</option>
-      <option value="obligatoria">Obligatorias</option>
-      <option value="participativa">Participativas</option>
-    </select>
+    <div class="filter-box">
+      <label for="filter">Filtrar por:</label>
+      <select id="filter">
+        <option value="todas">Todas</option>
+        <option value="pendiente">Pendientes</option>
+        <option value="expirada">Expiradas</option>
+        <option value="obligatoria">Obligatorias</option>
+        <option value="participativa">Participativas</option>
+      </select>
+    </div>
   </section>
 
   <main id="course-list">
-    <!-- Aquí JS insertará los cursos -->
+    <!-- JS inserta cards de guías -->
   </main>
 
   <footer>
