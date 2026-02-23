@@ -16,6 +16,40 @@
           "url": "https://docs.google.com/document/d/1XTPxbWLeK36zDaAw_5N_p27JZJ87Z2FwoUqXShsmR7M/edit?usp=sharing"
         }
       ]
+    },
+     {
+      "grade": "8",
+      "name": "GUIA DE TRABAJO 1 - GEOGRAFÍA PARA GRADOS 8° - LA DEMOGRAFÍA (PARTE I)",
+      "instructions": "Resolver las preguntas de reflexión en el cuaderno y desarrollar la actividad final según sea requerido. Grupos que deben realizar: Los grupos 8-2, 8-3 y 8-4.",
+      "verLinkDesde": "2026-02-20T07:00:00",
+      "verLinkHasta": "2026-03-06T23:59:59",
+      "estado": "pendiente",
+      "tipo": "obligatoria",
+      "formaEvaluacion": ["Exposición", "Trabajo escrito", "Cuaderno"],
+      "files": [
+        {
+          "title": "Guía (Parte I)",
+          "type": "pdf",
+          "url": "https://docs.google.com/document/d/1UzUGfuULyima1MAAEChAPDDBv8ahdUjobRP9R8venR8/edit?usp=sharing"
+        }
+      ]
+    },
+     {
+      "grade": "8",
+      "name": "GUIA DE TRABAJO 1 - CONSTITUCIÓN POLÍTICA PARA GRADOS 8° - LA DEMOGRAFÍA (PARTE I)",
+      "instructions": "Resolver las preguntas de reflexión en el cuaderno y desarrollar la actividad final según sea requerido. Grupos que deben realizar: Los grupos 8-1, 8-2, 8-3 y 8-4.",
+      "verLinkDesde": "2026-02-20T07:00:00",
+      "verLinkHasta": "2026-03-06T23:59:59",
+      "estado": "expirada",
+      "tipo": "obligatoria",
+      "formaEvaluacion": ["Exposición", "Trabajo escrito", "Cuaderno"],
+      "files": [
+        {
+          "title": "Guía (Pendiente por subir)",
+          "type": "pdf",
+          "url": ""
+        }
+      ]
     }
   ]
 }
