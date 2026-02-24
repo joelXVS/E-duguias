@@ -50,6 +50,23 @@
           "url": "https://docs.google.com/document/d/1OJlTqCFx75y0E3LA7C5WlKQdekUDR0hp0mGKCas_MtI"
         }
       ]
+    },
+     {
+      "grade": "8",
+      "name": "ACTIVIDAD PARTICIPATIVA 1 - HISTORIA PARA GRADOS 8°",
+      "instructions": "Actividad suplementaria para recuperacion para los grupos 8-2, 8-3 y 8-4.",
+      "verLinkDesde": "2026-09-25T07:00:00",
+      "verLinkHasta": "2026-12-06T23:59:59",
+      "estado": "pendiente",
+      "tipo": "participativa",
+      "formaEvaluacion": ["Exposición", "Trabajo escrito"],
+      "files": [
+        {
+          "title": "Rúbrica de Actividad",
+          "type": "pdf",
+          "url": "https://docs.google.com/document/d/1eAVCTLbRKtVb3Cr3yzYQV4OlhcsTYa3vuQHOZjtjKFs"
+        }
+      ]
     }
   ]
 }
